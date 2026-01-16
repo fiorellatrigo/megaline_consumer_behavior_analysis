@@ -30,3 +30,6 @@ The analysis bridges the gap between raw data auditing and strategic business in
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+3. Run the notebook to see the full transformation from raw logs to business insights.
+
+Analysis by **Fiorella Trigo M.** *Part 1 of the Megaline Optimization Series*
