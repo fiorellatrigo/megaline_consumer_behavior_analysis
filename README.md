@@ -9,10 +9,10 @@ The analysis bridges the gap between raw data auditing and strategic business in
 - **Data Engineering:** Consolidated 5 independent datasets into a unified analytical engine.
 - **Behavioral Profiling:** Calculated monthly usage (calls, SMS, GB) and revenue per user, accounting for plan overages.
 - **Statistical Analysis:** Identification and handling of outliers to ensure clean, representative distributions.
-- **Comparative Study:** Analyzed the performance differences between the **Smart** and **Ultra** plans.
+- **Comparative Study:** Analyzed the performance differences between the **Surf** and **Ultimate** plans.
 
 ## 📈 Main Findings
-1. **Usage Patterns:** Users on the Smart plan tend to exceed their limits more frequently, generating significant overage revenue.
+1. **Usage Patterns:** Users on the Surf plan tend to exceed their limits more frequently, generating significant overage revenue.
 2. **Revenue Drivers:** Internet consumption is the primary factor driving extra charges across both plans.
 
 ## 🛠️ Tech Stack
